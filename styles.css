@@ -10,7 +10,6 @@
   min-width: 720px;
   margin: 10px auto 10px auto;
   padding: 20px;
-  border: 4px double #000;
   background-image: url(/assets/img/vail_summer.jpg);
   background-attachment: fixed
 }
@@ -18,12 +17,12 @@
 ul {
   width: 570px;
   padding: 15px;
-  border-top: 2px solid #000;
-  border-bottom: 1px solid #000;
+  margin: 0px auto 0px auto;
   font-family: 'Avant Garde',sans-serif;
   text-align: center;
 }
 
 li {
   display: inline;
+  margin: 0px 3px
 }

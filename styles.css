@@ -1,9 +1,9 @@
-h1 {
+#heading {
   font-family: 'Avant Garde',sans-serif;
   position: absolute;
   text-align: center;
   font-size: 40px;
-  margin: 10px auto 25px auto
+  margin: auto auto
 }
 
 #page {

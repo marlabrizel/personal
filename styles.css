@@ -10,6 +10,9 @@
   min-width: 720px;
   margin: 10px auto 10px auto;
   padding: 20px;
+}
+
+body {
   background-image: url("../assets/img/vail_summer.jpg");
   background-repeat: no-repeat;
   background-position: center;

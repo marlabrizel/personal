@@ -4,47 +4,49 @@ https://keybase.io/marlabrizel
 
 I hereby claim:
 
-  * I am an admin of http://www.marlabrizel.com
+  * I am an admin of http://www.marlazeschin.com
   * I am marlabrizel (https://keybase.io/marlabrizel) on keybase.
-  * I have a public key ASCUiBo8iul7dZEgAQeuc9Q-5GJ0B5orq5FBeH2jw6HosAo
+  * I have a public key ASAg38OpgjHSIv75frGzaK8_C_GwIaRx-QAI7m-5ZOZ5bgo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "012094881a3c8ae97b7591200107ae73d43ee46274079a2bab9141787da3c3a1e8b00a",
-            "host": "keybase.io",
-            "kid": "012094881a3c8ae97b7591200107ae73d43ee46274079a2bab9141787da3c3a1e8b00a",
-            "uid": "ddf755acba9b9dbb6d67063b2d395f19",
-            "username": "marlabrizel"
-        },
-        "service": {
-            "hostname": "www.marlabrizel.com",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "012094881a3c8ae97b7591200107ae73d43ee46274079a2bab9141787da3c3a1e8b00a",
+      "host": "keybase.io",
+      "kid": "012020dfc3a98231d222fef97eb1b368af3f0bf1b021a471f90008ee6fb964e6796e0a",
+      "uid": "ddf755acba9b9dbb6d67063b2d395f19",
+      "username": "marlabrizel"
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.16"
-    },
-    "ctime": 1467047535,
-    "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1467047512,
-        "hash": "977d13a4b56b1ba8321929132a5ddae65df25b1647cee7c7b466bc3707edb891805d4e8795b68797edf54640c163dfa7a4c64e86989da0a43f1c966dd730db71",
-        "seqno": 500991
+      "ctime": 1552175323,
+      "hash": "eb17a3a6444cc24c11ecd85a2b20a1d3702d5dc04f69ea08c81b60cabd84cae993d1f2ea74bc780c79c8c3614a2d690c9d37499a69cdfe8f68ad500d3887b41d",
+      "hash_meta": "d5d60d1abba556109ec4e3ab9d7cead52460d94ff8a4ff316676c76730f98418",
+      "seqno": 4912960
     },
-    "prev": "87c252550cdc8d1cac95aaa3e830c46cc26c2cbeede2085f98cfa53557d800ac",
-    "seqno": 18,
-    "tag": "signature"
+    "service": {
+      "entropy": "o7dzCaomSUVcuKbUnZY5H11r",
+      "hostname": "www.marlazeschin.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.0"
+  },
+  "ctime": 1552175335,
+  "expire_in": 504576000,
+  "prev": "5cc2122824baafd536a6949b4a20cf48fb4b0d63d193383bc27533d4b648b95b",
+  "seqno": 38,
+  "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglIgaPIrpe3WRIAEHrnPUPuRidAeaK6uRQXh9o8Oh6LAKp3BheWxvYWTFAv57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTQ4ODFhM2M4YWU5N2I3NTkxMjAwMTA3YWU3M2Q0M2VlNDYyNzQwNzlhMmJhYjkxNDE3ODdkYTNjM2ExZThiMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTQ4ODFhM2M4YWU5N2I3NTkxMjAwMTA3YWU3M2Q0M2VlNDYyNzQwNzlhMmJhYjkxNDE3ODdkYTNjM2ExZThiMDBhIiwidWlkIjoiZGRmNzU1YWNiYTliOWRiYjZkNjcwNjNiMmQzOTVmMTkiLCJ1c2VybmFtZSI6Im1hcmxhYnJpemVsIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cubWFybGFicml6ZWwuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ2NzA0NzUzNSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDY3MDQ3NTEyLCJoYXNoIjoiOTc3ZDEzYTRiNTZiMWJhODMyMTkyOTEzMmE1ZGRhZTY1ZGYyNWIxNjQ3Y2VlN2M3YjQ2NmJjMzcwN2VkYjg5MTgwNWQ0ZTg3OTViNjg3OTdlZGY1NDY0MGMxNjNkZmE3YTRjNjRlODY5ODlkYTBhNDNmMWM5NjZkZDczMGRiNzEiLCJzZXFubyI6NTAwOTkxfSwicHJldiI6Ijg3YzI1MjU1MGNkYzhkMWNhYzk1YWFhM2U4MzBjNDZjYzI2YzJjYmVlZGUyMDg1Zjk4Y2ZhNTM1NTdkODAwYWMiLCJzZXFubyI6MTgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RARsiaw++NOBYC74Llvte2VcuRbwH++afu9PUWUmeWUZr5w7lmyFxwcCbI2TOtGHSNTPtCQr0VWp8Ej3HkKvIlCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINgm2W81WMf5k5h0HWFn9mWEIFAE2mgZxWvdrA/SxvkHo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIN/DqYIx0iL++X6xs2ivPwvxsCGkcfkACO5vuWTmeW4Kp3BheWxvYWTESpcCJsQgXMISKCS6r9U2ppSbSiDPSPtLDWPRkzg7wnUz1LZIuVvEIOBEvZLQ+sa/PNJyZYzAwWbRFiulDMw6ivvO6h2ywwahAgHCo3NpZ8RAB3cJQtfg/On/alVy5VoA+nNvJFESoSrlRXkkZsGmiCzSxJCru/zolCspjpQUplWRwbHUMfGQ8YxrvHtnJ8KyDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBc6A/0pEPLiu6faAy1CcEb6/GAZ8rl5qavZVNsXeLhso3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
